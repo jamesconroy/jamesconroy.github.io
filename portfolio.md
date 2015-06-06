@@ -14,7 +14,6 @@ permalink: /portfolio/
 
 - Used Ruby on Rails to create an API
 - Pulled data from the foursquare and Yelp APIs
--
 
 ![Homepage](/img/homepage.png)
 
