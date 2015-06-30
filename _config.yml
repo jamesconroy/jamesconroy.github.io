@@ -1,5 +1,6 @@
 # Site settings
-title: James Conroy portfolio
+title: James P. Conroy
+suhead: Full-stack Developer living in Chicago
 email: jamespc167@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   James Conroy's open source portfolio
@@ -7,6 +8,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://you.github.io" # the base hostname & protocol for your site
 twitter_username: jamesconroy
 github_username:  jamesconroy
+linkedin_username: jamesconroy1
+instagram_username: jamesconroy
+jquery: /assets/js/jquery.js
+maincss: /assets/css/main.css
+
+
 
 # Build settings
 markdown: kramdown

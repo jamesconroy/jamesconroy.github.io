@@ -1,7 +1,27 @@
----
-layout: default
----
-<div class="post">
+{% include head.html %}
+{% include nav.html %}
+
+{{ content }}
+
+<div class="container">
+  <div class="row">
+    <a href="https://blocktrotter.herokuapp.com/" target="_blank"><div class="col-md-4">
+      <h1 class="projname">Blocktrotter</h1>
+      <div class="row1"></div>
+    </div></a>
+    <div class="col-md-4">
+      <h1 class="projname">HoneyDwell</h1>
+      <div class="row2"></div>
+    </div>
+    <div class="col-md-4">
+      <h1 class="projname">Chirpr</h1>
+      <div class="row3"></div>
+    </div>
+  </div>
+</div>
+
+
+<!-- <div class="post">
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
@@ -11,4 +31,4 @@ layout: default
     {{ content }}
   </article>
 
-</div>
+</div> -->

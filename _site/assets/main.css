@@ -1,0 +1,110 @@
+body {
+  padding-top: 100px;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.headerwrapper {
+  height: 350px;
+  background-color: #ccc;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0,0,0,.3)),
+  url(/assets/img/jameslandscape.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+
+#titleheader {
+  position: absolute;
+  top: 100px;
+  left: 50px;
+}
+
+#beard {
+  width: 75px;
+}
+
+#beard:hover {
+  opacity: 0.3;
+}
+
+.navbar-nav {
+  font-size: 24px;
+}
+
+.fa-twitter-square:hover, .fa-github-square:hover, .fa-linkedin-square:hover, .fa-instagram:hover{
+  color: rgba(255, 255, 255, 0.5);
+}
+
+#subbio {
+  position: absolute;
+  top: 150px;
+  left: 70px;
+  color: #F7FBFF;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 0 10px;
+}
+
+#spanname {
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 0 10px;
+}
+
+.fa-ul {
+  position: absolute;
+  top: 375px;
+  right: 50px;
+  color: white;
+}
+
+.row1{
+  height: 300px;
+  border-right: 3px solid black;
+  background-image: url(/assets/img/blocktrot.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-right: 20px;
+}
+
+.row2{
+  height: 300px;
+  border-right: 3px solid black;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0,0,0,.3)),
+  url(/assets/img/blocktrot.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.row3{
+  height: 300px;
+  border-right: 3px solid black;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0,0,0,.3)),
+  url(/assets/img/blocktrot.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.container {
+  margin: 0;
+}
+
+.projname {
+  text-align: center;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #ccc;
+}
