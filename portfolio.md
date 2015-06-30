@@ -6,4 +6,4 @@ permalink: /portfolio/
 
 ------
 
-This is where we put info about the portfolio
+## Take a look at the work I've done 
