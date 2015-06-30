@@ -27,6 +27,8 @@ a {
 
 #beard {
   width: 75px;
+  position: absolute;
+  top: 25px;
 }
 
 #beard:hover {
@@ -107,4 +109,8 @@ a {
   /* Set the fixed height of the footer here */
   height: 60px;
   background-color: #ccc;
+}
+
+.navbar-brand > h2 {
+  padding-left: 70px;
 }
