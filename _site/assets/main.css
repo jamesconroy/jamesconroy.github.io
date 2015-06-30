@@ -77,8 +77,7 @@ a {
 .row2{
   height: 300px;
   border-right: 3px solid black;
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0,0,0,.3)),
-  url(/assets/img/blocktrot.png);
+  background-image: url(/assets/img/honeydwell.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
