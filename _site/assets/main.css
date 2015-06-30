@@ -64,33 +64,28 @@ a {
   color: white;
 }
 
-.row1{
+.row1>img{
   height: 300px;
-  border-right: 3px solid black;
-  background-image: url(/assets/img/blocktrot.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  padding-right: 20px;
+  width: 375px;
 }
 
-.row2{
+.row2 > img{
   height: 300px;
-  border-right: 3px solid black;
-  background-image: url(/assets/img/honeydwell.png);
+  width: 375px;
+  /*height: 300px;*/
+  /*background-image: url(/assets/img/honeydwell.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: cover;*/
 }
 
-.row3{
+.row3 > img{
   height: 300px;
-  border-right: 3px solid black;
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0,0,0,.3)),
-  url(/assets/img/blocktrot.png);
+  width: 375px;
+  /*background-image: url(/assets/img/chirpr.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: cover;*/
 }
 
 .container {
