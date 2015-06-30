@@ -31,6 +31,6 @@ Yea, that's my house. I recently bought it and, since it's about 120 years old, 
 But seriously, I'm a hard worker and a quick study.
 
 ### 4. Calm under pressure
-![Bill O'Reilly and me](/assets/img/billo.jpg)
+![Bill O'Reilly and me](/assets/img/oreilly.png)
 
 I work well under pressure. Want proof? I once appeared as a guest on the O'Reilly Factor (sans beard) and had Bill yell at me for about 7 minutes. But, I held my own and have the video to prove it.
