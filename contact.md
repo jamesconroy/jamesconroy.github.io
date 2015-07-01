@@ -3,7 +3,7 @@ layout: contact
 title: Contact
 permalink: /contact/
 ---
-<form action="action_page.php">
+<!-- <form action="action_page.php">
 Email address<br>
 <input type="text" name="email" placeholder="email">
 <br>
@@ -14,4 +14,7 @@ Your message:<br>
 <br>
 <br>
 <input type="submit" value="Submit">
-</form>
+</form> -->
+<br>
+
+###I'd love to talk to you about projects and jobs. <a href="mailto:jamespc167@gmail.com?Subject=Found%20your%20website" target="_top">Send me an email.</a>
