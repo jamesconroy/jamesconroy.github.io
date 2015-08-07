@@ -2,8 +2,9 @@
 {% include header.html %}
 
   <div class="page-content">
-    <div class="wrapper">
-      {{ content }}
+    <div class="row">
+      <div class="col-md-6 col-md-offset-1">{{ content }}</div>
+      <div class="col-md-3 col-md-offset-1">{% include aside.html %}</div>
     </div>
   </div>
 
@@ -12,3 +13,5 @@
 </body>
 
 </html>
+
+<div class="col-md-6 col-md-offset-1"><div class="post">

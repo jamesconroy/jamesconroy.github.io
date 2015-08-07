@@ -5,6 +5,7 @@ description: There are many reasons, here are just a few
 date:   2015-06-30 15:00:07
 categories: blog
 author: James
+main_image: /assets/img/jameslookingcool.png
 ---
 
 
