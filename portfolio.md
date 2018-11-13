@@ -5,5 +5,3 @@ permalink: /portfolio/
 ---
 
 ------
-
-## Take a look at the work I've done 
