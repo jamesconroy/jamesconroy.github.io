@@ -1,9 +1,18 @@
-.post-list li{
-  list-style-type: none;
-}
+.post-list li{list-style-type: none;}
 
-.container {
-    padding-right: 0px;
-    padding-left: 0px;
-    width: 100%;
+.container {padding-right: 0px;padding-left: 0px;width: 100%;}
+
+.portfolio-container {display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-ms-flex-wrap:wrap;flex-wrap:wrap;width:90%;margin:0 auto;}
+.portfolio-item {width:32%;border:2px solid #222;}
+.portfolio-item:nth-of-type(2) {margin: 0 1%;}
+.portfolio-item:last-of-type {margin-left:1%;}
+.portfolio-item-spacer {width:16%}
+.portfolio-item img {width:100%;}
+.portfolio-item:nth-of-type(n+4) {margin-top:10px;}
+
+@media screen and (max-width: 700px){
+  .portfolio-container {width:95%;}
+  .portfolio-container .portfolio-item:nth-of-type(n+2) {margin-top:1%;}
+  .portfolio-container .portfolio-item {margin:0 auto;width:95%}
+  .portfolio-item-spacer {display:none;}
 }
